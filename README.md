@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArunMadhanSingh
+- 👀 I’m interested in AI/ML/Deep Learning 
+- 🌱 I’m currently pursuing my masters in Artificial Intelligence and Robotics with placement...
+- 💞️ I’m looking for full-time job in AI and related field
+- 📫 email- arunmathansingh@gmail.com
